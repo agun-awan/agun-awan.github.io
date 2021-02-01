@@ -64,5 +64,137 @@
                 "version": "v2.3.1"
             }
         ]
+    },
+    {
+        "id": 4,
+        "project": "Project - 4",
+        "project_name": "Nicely Shoes",
+        "category": "following",
+        "published": "",
+        "image": "https://agun-awan.github.io/portfolio/p4.jpg",
+        "technology": [
+            {
+                "name": "Codeigniter",
+                "version": "v3.0.2"
+            },
+            {
+                "name": "Bootstrap",
+                "version": "v4.3.2"
+            },
+            {
+                "name": "JQuery",
+                "version": "v2.3.1"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "project": "Project - 5",
+        "project_name": "People Library",
+        "category": "upcoming",
+        "published": "",
+        "image": "https://agun-awan.github.io/portfolio/p5.jpg",
+        "technology": [
+            {
+                "name": "Codeigniter",
+                "version": "v3.0.2"
+            },
+            {
+                "name": "Bootstrap",
+                "version": "v4.3.2"
+            },
+            {
+                "name": "JQuery",
+                "version": "v2.3.1"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "project": "Project - 6",
+        "project_name": "Interior Design",
+        "category": "latest",
+        "published": "",
+        "image": "https://agun-awan.github.io/portfolio/p6.jpg",
+        "technology": [
+            {
+                "name": "Codeigniter",
+                "version": "v3.0.2"
+            },
+            {
+                "name": "Bootstrap",
+                "version": "v4.3.2"
+            },
+            {
+                "name": "JQuery",
+                "version": "v2.3.1"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "project": "Project - 7",
+        "project_name": "Interior For You",
+        "category": "following",
+        "published": "",
+        "image": "https://agun-awan.github.io/portfolio/p7.jpg",
+        "technology": [
+            {
+                "name": "Codeigniter",
+                "version": "v3.0.2"
+            },
+            {
+                "name": "Bootstrap",
+                "version": "v4.3.2"
+            },
+            {
+                "name": "JQuery",
+                "version": "v2.3.1"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "project": "Project - 8",
+        "project_name": "Sketch up",
+        "category": "upcoming",
+        "published": "",
+        "image": "https://agun-awan.github.io/portfolio/p8.jpg",
+        "technology": [
+            {
+                "name": "Codeigniter",
+                "version": "v3.0.2"
+            },
+            {
+                "name": "Bootstrap",
+                "version": "v4.3.2"
+            },
+            {
+                "name": "JQuery",
+                "version": "v2.3.1"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "project": "Project - 9",
+        "project_name": "Free your day",
+        "category": "following",
+        "published": "",
+        "image": "https://agun-awan.github.io/portfolio/p9.jpg",
+        "technology": [
+            {
+                "name": "Codeigniter",
+                "version": "v3.0.2"
+            },
+            {
+                "name": "Bootstrap",
+                "version": "v4.3.2"
+            },
+            {
+                "name": "JQuery",
+                "version": "v2.3.1"
+            }
+        ]
     }
 ]
